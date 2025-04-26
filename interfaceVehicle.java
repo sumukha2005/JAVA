@@ -1,0 +1,2 @@
+interface Vehicle {
+    void start();
